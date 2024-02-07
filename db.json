@@ -8,12 +8,12 @@
     ],
     "services": [
         {
-        "id": 2,
-        "name": "compte internet"
+            "id": 2,
+            "name": "compte internet"
         },
         {
-        "id": 1,
-        "name": "projets réalisation"
+            "id": 1,
+            "name": "projets réalisation"
         }
     ]
-  }
+}
