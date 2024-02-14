@@ -9,11 +9,11 @@
     "services": [
         {
             "id": 2,
-            "name": "compte internet"
+            "title": "compte internet"
         },
         {
             "id": 1,
-            "name": "projets réalisation"
+            "title": "projets réalisation"
         }
     ]
 }
